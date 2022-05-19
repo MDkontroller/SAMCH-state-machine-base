@@ -1,0 +1,19 @@
+<launch>
+
+
+     <rosparam file="$(find master)/config/params.yaml" />
+     <node name ="master_node" pkg="master" type ="master_node.py" output='screen'/>
+
+     <!--<include file="$(find master)/launch/file.launch" />-->
+     <!--  so kommentieren-->
+
+     <!--<<group> 
+
+          <machine>  name="raspi_1", address="10.42.0.172" default="true">
+          <<include file="$(find raspi_ros)/launch/file.launch" />
+
+     </group>-->
+
+</launch>
+
+

@@ -1,0 +1,8 @@
+#start goal
+float64 goal
+---
+#result
+#string result
+---
+#feedback
+#float64 time

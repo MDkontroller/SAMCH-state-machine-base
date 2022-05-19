@@ -1,0 +1,15 @@
+# Experiment parameters example
+
+Experiment: "Intrinsic params measurement"
+iterations: 42 
+temperature_start: 21.35
+enable_robot: true
+list_of_elements:
+    - 1
+    - 2
+    - 3
+    - 4
+Experiment_params: {
+    another_text: "World",
+    another_number: 12,
+}
