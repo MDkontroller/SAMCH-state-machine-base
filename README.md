@@ -1,2 +1,2 @@
-# SAMCH-state-machine-base
+# SMACH-state-machine-base
 Implementing state machine, calling services actions on Multiple Machines with SMACH
